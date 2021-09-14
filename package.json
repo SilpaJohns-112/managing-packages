@@ -1,6 +1,7 @@
 {
 	"author": "Silpa Johns",
 	"description":"ghjcvjgh",
+	"keywords": ["loving", "caring","helping"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
