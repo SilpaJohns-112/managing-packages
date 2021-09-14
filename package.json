@@ -3,7 +3,7 @@
 	"description":"ghjcvjgh",
 	"keywords": ["loving", "caring","freecodecamp"],
 	"license":"MIT",
-	"version": "3.7.5",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
