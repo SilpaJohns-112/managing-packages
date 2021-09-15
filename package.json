@@ -7,7 +7,7 @@
 	"dependencies": {
 		"package-name": "moment",
 		"express": "2.14.0"
-	  }
+	  },
 
 
 	"name": "fcc-learn-npm-package-json",
